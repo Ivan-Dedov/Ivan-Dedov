@@ -3,9 +3,8 @@ Heyyy, I'm just an ordinary HSE student :smiley: <br/>
 I like to learn new stuff, especially about mathematics and technology, read books and watch TV shows!
 
 # :mortar_board: Education
-+ School №9 (Rzhev, Tver Region)
-+ Higher School of Economics <br/>
-  *BSc* — **Software Engineering** — 1st year
+![School](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/education/school.svg) <br/>
+![HSE](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/education/hse.svg) <br/>
 
 # :desktop_computer: Programming Languages
 ![C#](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/programming_languages/csharp.svg)
