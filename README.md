@@ -1,6 +1,6 @@
 # :wave: About me
 Heyyy, I'm just an ordinary HSE student :smiley: <br/>
-I like to learn new stuff, especially about mathematics and technology, read books and watch TV shows!
+I like to learn new stuff, especially about mathematics and technology, read books and watch TV shows! <br/>
 
 # :mortar_board: Education
 ![School](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/education/school.svg) <br/>
@@ -20,12 +20,11 @@ I like to learn new stuff, especially about mathematics and technology, read boo
 ![French](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/languages/fr.svg)
 
 # :trophy: Achievements and Awards
-+ Regeneron ISEF 2020 Finalist
-+ GPA: 9.31/10
+![French](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/awards/isef.svg)
 
-# :iphone: Contacts
-[![Gmail](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/contacts/gmail.svg)](sean.grand.2002@gmail.com) <br/>
-[![Corporate](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/contacts/hsemail.svg)](indedov@edu.hse.ru) <br/>
+# :email: Contacts
+[![Gmail](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/contacts/gmail.svg)](mailto:sean.grand.2002@gmail.com) <br/>
+[![Corporate](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/contacts/hsemail.svg)](mailto:indedov@edu.hse.ru) <br/>
 [![Telegram](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/contacts/tg.svg)](https://t.me/dedov_ivan) <br/>
 [![Instagram](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/contacts/ig.svg)](https://www.instagram.com/_d_ivanchik/)  <br/>
 [![VKontakte](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/contacts/vk.svg)](https://vk.com/ivan.dedov) <br/>
