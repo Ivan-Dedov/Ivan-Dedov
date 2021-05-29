@@ -3,28 +3,28 @@ Heyyy, I'm just an ordinary HSE student :smiley: <br/>
 I like to learn new stuff, especially about mathematics and technology, read books and watch TV shows! <br/>
 
 # :mortar_board: Education
-![School](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/education/school.svg) <br/>
-![HSE](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/education/hse.svg) <br/>
+![School](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/education/school.png) <br/>
+![HSE](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/education/hse.png) <br/>
 
 # :desktop_computer: Programming Languages
-![C#](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/programming_languages/csharp.svg)
-![Python](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/programming_languages/python.svg)
-![Java](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/programming_languages/java.svg)
-![PostgreSQL](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/programming_languages/postgre.svg)
-![LaTeX](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/programming_languages/latex.svg)
+![C#](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/programming_languages/csharp.png)
+![Python](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/programming_languages/python.png)
+![Java](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/programming_languages/java.png)
+![PostgreSQL](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/programming_languages/postgre.png)
+![LaTeX](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/programming_languages/latex.png)
 
 # :earth_americas: Language Skills
-![Russian](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/languages/ru.svg)
-![English](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/languages/en.svg)
-![German](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/languages/de.svg)
-![French](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/languages/fr.svg)
+![Russian](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/languages/ru.png)
+![English](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/languages/en.png)
+![German](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/languages/de.png)
+![French](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/languages/fr.png)
 
 # :trophy: Achievements and Awards
-![French](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/awards/isef.svg)
+![Regeneron ISEF](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/awards/isef.png)
 
 # :email: Contacts
-[![Gmail](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/contacts/gmail.svg)](mailto:sean.grand.2002@gmail.com) <br/>
-[![Corporate](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/contacts/hsemail.svg)](mailto:indedov@edu.hse.ru) <br/>
-[![Telegram](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/contacts/tg.svg)](https://t.me/dedov_ivan) <br/>
-[![Instagram](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/contacts/ig.svg)](https://www.instagram.com/_d_ivanchik/)  <br/>
-[![VKontakte](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/contacts/vk.svg)](https://vk.com/ivan.dedov) <br/>
+[![Gmail](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/contacts/gmail.png)](mailto:sean.grand.2002@gmail.com) <br/>
+[![Corporate](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/contacts/hsemail.png)](mailto:indedov@edu.hse.ru) <br/>
+[![Telegram](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/contacts/tg.png)](https://t.me/dedov_ivan) <br/>
+[![Instagram](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/contacts/ig.png)](https://www.instagram.com/_d_ivanchik/)  <br/>
+[![VKontakte](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/contacts/vk.png)](https://vk.com/ivan.dedov) <br/>
