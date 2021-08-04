@@ -9,9 +9,10 @@ I like to learn new stuff, especially about mathematics and technology, read boo
 # :desktop_computer: Programming Languages
 ![C#](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/programming_languages/csharp.png)
 ![Python](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/programming_languages/python.png)
-![Java](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/programming_languages/java.png)
-![C++](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/programming_languages/cpp.png)
 ![PostgreSQL](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/programming_languages/postgre.png)
+![Java](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/programming_languages/java.png)
+![GoLang](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/programming_languages/golang.png)
+![C++](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/programming_languages/cpp.png)
 ![LaTeX](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/programming_languages/latex.png)
 
 # :earth_americas: Language Skills
