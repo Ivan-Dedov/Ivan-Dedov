@@ -25,7 +25,7 @@ I like to learn new stuff, especially about mathematics and technology, read boo
 ![Regeneron ISEF](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/awards/isef.png)
 
 # :email: Contacts
-[![Gmail](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/contacts/gmail.png)](mailto:sean.grand.2002@gmail.com)
+[![Gmail](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/contacts/gmail.png)](mailto:indedov@gmail.com)
 [![Corporate](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/contacts/hsemail.png)](mailto:indedov@edu.hse.ru) <br/>
 [![Telegram](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/contacts/tg.png)](https://t.me/dedov_ivan)
 [![Instagram](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/contacts/ig.png)](https://www.instagram.com/_d_ivanchik/)
