@@ -11,15 +11,11 @@ I like to learn new stuff, especially about mathematics and technology, read boo
 ![Python](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/programming_languages/python.png)
 ![PostgreSQL](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/programming_languages/postgre.png)
 ![Java](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/programming_languages/java.png)
-![GoLang](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/programming_languages/golang.png)
 ![C++](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/programming_languages/cpp.png)
-![LaTeX](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/programming_languages/latex.png)
 
 # :earth_americas: Language Skills
 ![Russian](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/languages/ru.png)
 ![English](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/languages/en.png)
-![German](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/languages/de.png)
-![French](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/languages/fr.png)
 
 # :trophy: Achievements and Awards
 ![Regeneron ISEF](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/awards/isef.png)
