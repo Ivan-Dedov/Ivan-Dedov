@@ -47,6 +47,7 @@ placeholder text
 
 placeholder text
 
+
 ## :earth_americas: Language Skills
 
 :ru: Russia – **Native**
