@@ -1,30 +1,66 @@
 # :wave: About me
-Heyyy, I'm just an ordinary HSE student :smiley: <br/>
-I like to learn new stuff, especially about mathematics and technology, read books and watch TV shows! <br/>
 
-# :pencil: [CV](../blob/main/images/CV_IvanDedov_LinkedIn.pdf)
+### Ivan Dedov
 
-# :mortar_board: Education
-![School](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/education/school.png) <br/>
-![HSE](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/education/hse.png) <br/>
+Back-end Developer @ [OZON](https://www.ozon.ru) <br/>
+Student @ [Faculty of Computer Science](https://cs.hse.ru), [HSE](https://www.hse.ru)
 
-# :desktop_computer: Programming Languages
-![C#](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/programming_languages/csharp.png)
-![Python](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/programming_languages/python.png)
-![PostgreSQL](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/programming_languages/postgre.png)
-![Java](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/programming_languages/java.png)
-![C++](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/programming_languages/cpp.png)
 
-# :earth_americas: Language Skills
-![Russian](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/languages/ru.png)
-![English](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/languages/en.png)
+## :page_facing_up: [CV](../main/images/CV_IvanDedov_LinkedIn.pdf)
 
-# :trophy: Achievements and Awards
-![Regeneron ISEF](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/awards/isef.png)
 
-# :email: Contacts
-[![Gmail](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/contacts/gmail.png)](mailto:indedov@gmail.com)
-[![Corporate](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/contacts/hsemail.png)](mailto:indedov@edu.hse.ru) <br/>
-[![Telegram](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/contacts/tg.png)](https://t.me/dedov_ivan)
-[![Instagram](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/contacts/ig.png)](https://www.instagram.com/_d_ivanchik/)
-[![VKontakte](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/contacts/vk.png)](https://vk.com/ivan.dedov)
+## :hammer_and_wrench: Experience
+
+### [OZON](https://www.ozon.ru)
+
+placeholder text
+
+
+## :mortar_board: Education
+
+### [Higher School of Economics](https://cs.hse.ru)
+
+#### BSc | Software Engineering (2020–2024)
+
+placeholder text
+
+
+## :desktop_computer: Programming Languages
+
+### C#
+
+placeholder text
+
+### SQL: Microsoft Server & Postgres
+
+placeholder text
+
+### Java
+
+placeholder text
+
+### C++
+
+placeholder text
+
+### Python
+
+placeholder text
+
+## :earth_americas: Language Skills
+
+:ru: Russia – **Native**
+
+:uk: English – **Advanced, C1**
+
+
+## :trophy: Achievements and Awards
+
+[Regeneron ISEF](https://www.societyforscience.org/isef/) 2020 Finalist – **Program for Describing 2D Curves using Discrete Fourier Transform**
+
+
+## :email: Contacts
+
+If you wish to contact me, please write to my personal [Telegram](https://t.me/dedov_ivan) account or my [e-mail](mailto:indedov@gmail.com?subject=[GitHub]%20YOUR%20SUBJECT%20HERE)
+
+Check out my [Instagram](https://www.instagram.com/_d_ivanchik/)
