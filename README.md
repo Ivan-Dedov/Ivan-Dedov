@@ -1,4 +1,4 @@
-# :wave: About me
+## :wave: About me
 
 ### Ivan Dedov
 
