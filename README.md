@@ -56,7 +56,7 @@ placeholder text
 
 ## :trophy: Achievements and Awards
 
-[Regeneron ISEF](https://www.societyforscience.org/isef/) 2020 Finalist – **Program for Describing 2D Curves using Discrete Fourier Transform**
+[Regeneron ISEF](https://www.societyforscience.org/isef/) 2020 Finalist – **New Program for Construction of a Closed Curve Graph Using Discrete Fourier Transform** – [Certificate](../main/images/IvanDedov_ISEF-Finalist.jpg)
 
 
 ## :email: Contacts
