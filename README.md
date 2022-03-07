@@ -6,7 +6,7 @@ Back-end Developer @ [OZON](https://www.ozon.ru) <br/>
 Student @ [Faculty of Computer Science](https://cs.hse.ru), [HSE](https://www.hse.ru)
 
 
-## :page_facing_up: [CV](../main/images/CV_IvanDedov_LinkedIn.pdf)
+## :page_facing_up: [CV](../main/images/IvanDedov_CV.pdf)
 
 
 ## :hammer_and_wrench: Experience
