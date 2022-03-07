@@ -1,10 +1,8 @@
-# :pencil: CV
-
-
-
 # :wave: About me
 Heyyy, I'm just an ordinary HSE student :smiley: <br/>
 I like to learn new stuff, especially about mathematics and technology, read books and watch TV shows! <br/>
+
+# :pencil: [CV](../blob/main/images/CV_IvanDedov_LinkedIn.pdf)
 
 # :mortar_board: Education
 ![School](https://github.com/Ivan-Dedov/Ivan-Dedov/blob/main/images/education/school.png) <br/>
