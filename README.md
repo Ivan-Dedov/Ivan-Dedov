@@ -12,6 +12,7 @@ Student @ [Faculty of Computer Science](https://cs.hse.ru), [HSE](https://www.hs
 ## :hammer_and_wrench: Experience
 
 ### [OZON](https://www.ozon.ru)
+2021 – present
 
 During the second year of study at Higher School of Economics, I did an internship at OZON.ru, a big Russian e-commerce company.
 
@@ -23,6 +24,8 @@ and utilized PostgreSQL (with C#’s EntityFramework) and MS SQL as its database
 
 During the 6 months of internship, I regularly used Jira for task management and tools such as Graylog, Grafana and Jaeger for
 tracking bugs and assuring the stability of our services.
+
+Continued working there as an employee after the internship.
 
 
 ## :desktop_computer: Programming Languages and Tools
