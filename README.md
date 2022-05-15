@@ -12,7 +12,7 @@ Student @ [Faculty of Computer Science](https://cs.hse.ru), [HSE](https://www.hs
 ## :hammer_and_wrench: Experience
 
 ### [OZON](https://www.ozon.ru)
-2021 – present
+**2021 – present**
 
 During the second year of study at Higher School of Economics, I did an internship at OZON.ru, a big Russian e-commerce company.
 
