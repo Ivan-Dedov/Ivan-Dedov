@@ -37,7 +37,7 @@ Familiar with .NET Core 3.1, .NET 5 and ASP .NET Frameworks. Regularly use C# at
 ### SQL
 
 Know the general statements of SQL. In practice, I often use Microsoft Server SQL and PostgreSQL (with C#'s
-Entity Framework) at work.
+Entity Framework & Dapper with Npgsql) at work.
 
 ### Java
 
